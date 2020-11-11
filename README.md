@@ -1,2 +1,2 @@
-# web1 netlifyと連携
+# web1
 netlifyと連携しています。
