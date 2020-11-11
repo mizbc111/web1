@@ -1,3 +1,2 @@
-# web1
-web service
+# web1 netlifyと連携
 netlifyと連携しています。
